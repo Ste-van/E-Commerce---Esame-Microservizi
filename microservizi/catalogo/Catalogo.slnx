@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Catalogo.Business/Catalogo.Business.csproj" />
+  <Project Path="Catalogo.ClientHttp/Catalogo.ClientHttp.csproj" />
+  <Project Path="Catalogo.Repository/Catalogo.Repository.csproj" />
+  <Project Path="Catalogo.Shared/Catalogo.Shared.csproj" />
+  <Project Path="Catalogo.WebApi/Catalogo.WebApi.csproj" />
+</Solution>

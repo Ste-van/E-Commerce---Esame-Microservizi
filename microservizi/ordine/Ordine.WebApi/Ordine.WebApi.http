@@ -1,0 +1,6 @@
+@Ordine.WebApi_HostAddress = http://localhost:5177
+
+GET {{Ordine.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Pagamento.Business/Pagamento.Business.csproj" />
+  <Project Path="Pagamento.ClientHttp/Pagamento.ClientHttp.csproj" />
+  <Project Path="Pagamento.Repository/Pagamento.Repository.csproj" />
+  <Project Path="Pagamento.Shared/Pagamento.Shared.csproj" />
+  <Project Path="Pagamento.WebApi/Pagamento.WebApi.csproj" />
+</Solution>

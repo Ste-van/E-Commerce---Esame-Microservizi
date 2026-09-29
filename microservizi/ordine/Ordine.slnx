@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Ordine.Business/Ordine.Business.csproj" />
+  <Project Path="Ordine.ClientHttp/Ordine.ClientHttp.csproj" />
+  <Project Path="Ordine.Repository/Ordine.Repository.csproj" />
+  <Project Path="Ordine.Shared/Ordine.Shared.csproj" />
+  <Project Path="Ordine.WebApi/Ordine.WebApi.csproj" />
+</Solution>
