@@ -1,0 +1,6 @@
+﻿namespace Utente.Shared;
+
+public class Class1
+{
+
+}

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Utente.Business/Utente.Business.csproj" />
+  <Project Path="Utente.ClientHttp/Utente.ClientHttp.csproj" />
+  <Project Path="Utente.Repository/Utente.Repository.csproj" />
+  <Project Path="Utente.Shared/Utente.Shared.csproj" />
+  <Project Path="Utente.WebApi/Utente.WebApi.csproj" />
+</Solution>
